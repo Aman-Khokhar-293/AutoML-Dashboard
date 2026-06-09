@@ -17,7 +17,7 @@
 
 <br/>
 
-![screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/DataScienceautometer/main/docs/screenshot.png)
+<img width="1909" height="931" alt="image" src="https://github.com/user-attachments/assets/f69941e1-823a-4fff-a3a3-12a2ee3f54d9" />
 
 </div>
 
