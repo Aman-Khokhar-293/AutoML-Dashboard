@@ -59,17 +59,6 @@ The modular `src/` backend is clean Python — each concern (ingestion, preproce
 
 ---
 
-## 🌐 Live Demo
-
-| Resource | Link |
-|---|---|
-| 🚀 **Streamlit Cloud App** | [datascienceautometer.streamlit.app](https://datascienceautometer.streamlit.app) |
-| 📦 **GitHub Repository** | [github.com/YOUR_USERNAME/DataScienceautometer](https://github.com/YOUR_USERNAME/DataScienceautometer) |
-
-> Try it instantly — no installation required. Use the **Iris**, **Titanic**, or **Housing** sample datasets from the sidebar.
-
----
-
 ## ✨ Features
 
 ### 🧠 Task Type Selection
